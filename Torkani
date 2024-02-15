@@ -1,7 +1,8 @@
 vless://9e630a98-a4ce-4eff-b4fc-06db1cf7e54f@2.ronixshop.info:2083?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#Main.Pro.Server
+vless://52f34b6e-6603-461a-b15e-06e46351fe54@very2.irancoinre.click:443?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#SGD.Server
+vless://28b9baf0-614f-46fa-9229-a163c0265d0c@mca.irancoinre.click:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=mca.irancoinre.click#SGD%2C2.Server
 vless://2d04f589-dd0e-4582-a8cd-da633a105480@very.irancoinre.click:443?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%AA%B0
 vless://9ab4c977-e053-431c-a1fc-fffe15f7962d@tu.ronixshop.info:2083?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7-New.Turkey.Server
 vless://6da09b09-6dc3-4e0d-a603-7d3a1847000e@c.irancoo.click:2083?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%8C%A7Hoping.for.rain.in.Torkani%E2%98%81%EF%B8%8F
-vless://2d04f589-dd0e-4582-a8cd-da633a105480@very.irancoinre.click:443?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#Salman.Albalushi.Server
 vless://17339827-d630-4c02-818d-1cb660344864@mcb.irancoinre.click:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=&sni=mcb.irancoinre.click#VIP.Fast.Server
 vless://6d803fd4-2259-435f-9e40-80c1a383a481@ema.iraneth.click:2083?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%A6%F0%9F%87%AA-Fast.vip
