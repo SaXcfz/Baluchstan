@@ -1,3 +1,9 @@
+vless://67f140fc-896f-456d-b38b-c919367af6d9@167.114.193.41:43094?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#Irancell.Server
+vless://9a1c7d19-a43a-4917-97b2-6b6e0345f04c@167.114.193.41:59079?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#Irancell.Server2
+vless://14579f38-be95-461b-98e5-3a7014f0b730@167.114.193.41:39015?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#Irancell.Server3
+vless://c040ccbe-2322-41ea-8b64-36b5ff89fc2c@167.114.193.41:39015?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#Irancell.Server4
+vless://5a95c819-cd92-403f-a32e-4978bdabbf5a@167.114.193.41:43094?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#Irancell.Server5
+vless://5ae13e4e-584f-4cb9-8a7b-ffece4e396e3@167.114.193.41:59079?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#Irancell.Server6
 vless://c914e4e2-cefb-417e-8517-8436a30e20ee@www.speedtest.net:2086?path=%2F&security=none&encryption=none&host=v1.AFTER-SERVeRS-Mehdi-Error-server-iran.com&type=ws#HIWEB.IR-MCI.Server
 vless://e64883ca-a32f-4359-830b-eea9e7030a1f@www.speedtest.net:2082?path=%2F&security=none&encryption=none&host=t1.AFTER-SERVers-Mehdi-error-server-iran.com&type=ws#HIWEB.IR-MCI.Server2
 vless://a1e1dba9-b4af-4479-85e4-c75704f50ea1@www.speedtest.net:2086?path=%2F&security=none&encryption=none&host=v1.AFTER-SERVeRS-Mehdi-Error-server-iran.com&type=ws#HIWEB.IR-MCI.Server3
